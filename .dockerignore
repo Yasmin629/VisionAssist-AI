@@ -1,0 +1,12 @@
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+dataset/
+uploads/*.jpg
+uploads/*.jpeg
+uploads/*.png
+!uploads/.gitkeep
+.git/
+*.log

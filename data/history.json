@@ -1,0 +1,352 @@
+[
+  {
+    "type": "scan",
+    "label": "Rs 50",
+    "confidence": 81.16,
+    "time": "28 Oct 2026, 10:32 PM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 10",
+    "confidence": 83.27,
+    "time": "28 Oct 2026, 10:32 PM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 10",
+    "confidence": 75.48,
+    "time": "28 Oct 2026, 10:32 PM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 100",
+    "confidence": 76.88,
+    "time": "28 Oct 2026, 10:32 PM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 100",
+    "confidence": 84.23,
+    "time": "28 Oct 2026, 10:32 PM",
+    "language": "en"
+  },
+  {
+    "type": "fake_check",
+    "label": "Genuine Currency Detected - Rs 100",
+    "confidence": 69.0,
+    "time": "28 Oct 2026, 10:31 PM",
+    "language": "en"
+  },
+  {
+    "type": "counting_session",
+    "label": "Rs 100 x1, Rs 20 x1 (Total Rs 120)",
+    "confidence": 100.0,
+    "time": "23 Oct 2026, 11:24 AM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 20",
+    "confidence": 71.45,
+    "time": "23 Oct 2026, 11:24 AM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 20",
+    "confidence": 80.0,
+    "time": "23 Oct 2026, 11:24 AM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 500",
+    "confidence": 73.87,
+    "time": "23 Oct 2026, 11:24 AM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 2000",
+    "confidence": 75.69,
+    "time": "23 Oct 2026, 11:24 AM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 100",
+    "confidence": 82.5,
+    "time": "23 Oct 2026, 11:24 AM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 100",
+    "confidence": 78.7,
+    "time": "23 Oct 2026, 11:24 AM",
+    "language": "en"
+  },
+  {
+    "type": "fake_check",
+    "label": "Unable to Verify - Rs 100",
+    "confidence": 0,
+    "time": "23 Oct 2026, 11:24 AM",
+    "language": "en"
+  },
+  {
+    "type": "fake_check",
+    "label": "Unable to Verify - Rs 100",
+    "confidence": 0,
+    "time": "23 Oct 2026, 11:23 AM",
+    "language": "en"
+  },
+  {
+    "type": "fake_check",
+    "label": "Genuine Currency Detected - Rs 100",
+    "confidence": 65.0,
+    "time": "23 Oct 2026, 11:23 AM",
+    "language": "en"
+  },
+  {
+    "type": "fake_check",
+    "label": "Unable to Verify - Rs 20",
+    "confidence": 0,
+    "time": "23 Oct 2026, 11:23 AM",
+    "language": "en"
+  },
+  {
+    "type": "fake_check",
+    "label": "Unable to Verify - Rs 100",
+    "confidence": 0,
+    "time": "23 Oct 2026, 11:23 AM",
+    "language": "en"
+  },
+  {
+    "type": "fake_check",
+    "label": "Unable to Verify - Rs 100",
+    "confidence": 0,
+    "time": "23 Oct 2026, 11:23 AM",
+    "language": "en"
+  },
+  {
+    "type": "fake_check",
+    "label": "Unable to Verify - Rs 100",
+    "confidence": 0,
+    "time": "23 Oct 2026, 11:23 AM",
+    "language": "en"
+  },
+  {
+    "type": "fake_check",
+    "label": "Unable to Verify - Rs 100",
+    "confidence": 0,
+    "time": "23 Oct 2026, 11:23 AM",
+    "language": "en"
+  },
+  {
+    "type": "fake_check",
+    "label": "Unable to Verify - Rs 20",
+    "confidence": 0,
+    "time": "23 Oct 2026, 11:23 AM",
+    "language": "en"
+  },
+  {
+    "type": "fake_check",
+    "label": "Unable to Verify - Rs 10",
+    "confidence": 0,
+    "time": "23 Oct 2026, 11:23 AM",
+    "language": "en"
+  },
+  {
+    "type": "fake_check",
+    "label": "Unable to Verify - Rs 10",
+    "confidence": 0,
+    "time": "23 Oct 2026, 11:23 AM",
+    "language": "en"
+  },
+  {
+    "type": "fake_check",
+    "label": "Unable to Verify - Rs 10",
+    "confidence": 0,
+    "time": "23 Oct 2026, 11:23 AM",
+    "language": "en"
+  },
+  {
+    "type": "fake_check",
+    "label": "Unable to Verify - Rs 500",
+    "confidence": 0,
+    "time": "23 Oct 2026, 11:23 AM",
+    "language": "en"
+  },
+  {
+    "type": "fake_check",
+    "label": "Unable to Verify - Rs 10",
+    "confidence": 0,
+    "time": "23 Oct 2026, 11:23 AM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 100",
+    "confidence": 92.54,
+    "time": "23 Oct 2026, 11:22 AM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 100",
+    "confidence": 82.49,
+    "time": "23 Oct 2026, 11:22 AM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 100",
+    "confidence": 79.21,
+    "time": "23 Oct 2026, 11:22 AM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 100",
+    "confidence": 81.27,
+    "time": "23 Oct 2026, 11:22 AM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 100",
+    "confidence": 87.18,
+    "time": "23 Oct 2026, 11:22 AM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 20",
+    "confidence": 82.76,
+    "time": "23 Oct 2026, 11:22 AM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 20",
+    "confidence": 83.6,
+    "time": "23 Oct 2026, 11:22 AM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 20",
+    "confidence": 87.57,
+    "time": "23 Oct 2026, 11:22 AM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 20",
+    "confidence": 64.3,
+    "time": "23 Oct 2026, 11:22 AM",
+    "language": "en"
+  },
+  {
+    "type": "coin",
+    "label": "\u20b95",
+    "confidence": 96.51,
+    "time": "23 Oct 2026, 09:07 AM",
+    "language": "en"
+  },
+  {
+    "type": "coin",
+    "label": "\u20b95",
+    "confidence": 90.01,
+    "time": "23 Oct 2026, 09:07 AM",
+    "language": "en"
+  },
+  {
+    "type": "coin",
+    "label": "\u20b95",
+    "confidence": 60.81,
+    "time": "23 Oct 2026, 09:07 AM",
+    "language": "en"
+  },
+  {
+    "type": "coin",
+    "label": "\u20b92",
+    "confidence": 66.35,
+    "time": "23 Oct 2026, 09:07 AM",
+    "language": "en"
+  },
+  {
+    "type": "coin",
+    "label": "\u20b95",
+    "confidence": 84.78,
+    "time": "23 Oct 2026, 09:07 AM",
+    "language": "en"
+  },
+  {
+    "type": "coin",
+    "label": "\u20b92",
+    "confidence": 63.28,
+    "time": "23 Oct 2026, 09:07 AM",
+    "language": "en"
+  },
+  {
+    "type": "coin",
+    "label": "\u20b95",
+    "confidence": 69.47,
+    "time": "23 Oct 2026, 09:07 AM",
+    "language": "en"
+  },
+  {
+    "type": "coin",
+    "label": "\u20b92",
+    "confidence": 68.9,
+    "time": "23 Oct 2026, 09:07 AM",
+    "language": "en"
+  },
+  {
+    "type": "coin",
+    "label": "\u20b92",
+    "confidence": 87.46,
+    "time": "23 Oct 2026, 09:07 AM",
+    "language": "en"
+  },
+  {
+    "type": "coin",
+    "label": "\u20b92",
+    "confidence": 62.39,
+    "time": "23 Oct 2026, 09:07 AM",
+    "language": "en"
+  },
+  {
+    "type": "coin",
+    "label": "\u20b92",
+    "confidence": 91.86,
+    "time": "23 Oct 2026, 09:07 AM",
+    "language": "en"
+  },
+  {
+    "type": "coin",
+    "label": "\u20b92",
+    "confidence": 97.42,
+    "time": "23 Oct 2026, 09:07 AM",
+    "language": "en"
+  },
+  {
+    "type": "coin",
+    "label": "\u20b92",
+    "confidence": 86.73,
+    "time": "23 Oct 2026, 09:06 AM",
+    "language": "en"
+  },
+  {
+    "type": "coin",
+    "label": "\u20b92",
+    "confidence": 61.53,
+    "time": "23 Oct 2026, 09:06 AM",
+    "language": "en"
+  }
+]

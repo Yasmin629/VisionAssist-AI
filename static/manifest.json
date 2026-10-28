@@ -1,0 +1,26 @@
+{
+  "name": "AI Smart Currency Detection System",
+  "short_name": "CurrencyAI",
+  "description": "Smart Indian Currency & Coin Detection with Voice Assistant in English, Hindi, and Kannada",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0f1d",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "/static/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "finance", "accessibility"]
+}

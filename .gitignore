@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large training dataset (500+ MB - model weights in model/ are already trained and deployed)
+dataset/
+
+# Uploads cache (keep .gitkeep)
+uploads/*.jpg
+uploads/*.jpeg
+uploads/*.png
+!uploads/.gitkeep
+
+# IDE and system
+.idea/
+.vscode/
+.DS_Store
+*.log
